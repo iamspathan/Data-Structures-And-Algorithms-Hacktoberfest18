@@ -1,4 +1,5 @@
 #include<iostream>
+#include<stdio.h>
 using namespace std;
 
 bool isOverlap(pair<int,int> p1,pair<int,int> p2,pair<int,int> p3,pair<int,int> p4){
